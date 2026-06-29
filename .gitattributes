@@ -1,0 +1,7 @@
+# BioASQ third-party evaluation tools (Java/C++) — exclude from language stats
+**/bioasq_eval/** linguist-vendored
+
+# Compiled artifacts — exclude from language stats
+**/*.class linguist-generated
+**/*.jar linguist-vendored
+**/*.o linguist-generated
