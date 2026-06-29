@@ -1,0 +1,740 @@
+{
+    "data": [
+        {
+            "title": "gene Information",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4b00gene_001",
+                            "question": "What is the unit of heredity responsible for transmitting traits?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "The gene is the fundamental unit of heredity, responsible for transmitting traits from one generation to the next."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4b00gene_002",
+                            "question": "Which biological entity does the term 'gene' refer to?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "A gene is a sequence of DNA that codes for a molecule, usually a protein, and plays a key role in inheritance."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4b00gene_003",
+                            "question": "What does the word 'gene' represent in genetics?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "In genetics, a gene represents a segment of DNA that is responsible for producing a specific protein or function in an organism."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4b00gene_004",
+                            "question": "What is a gene in terms of genetic material?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "A gene is a specific sequence of nucleotides within DNA that carries the instructions for making proteins."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4b00gene_005",
+                            "question": "What is the smallest functional unit of inheritance in biology?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "The gene is considered the smallest functional unit of inheritance, carrying genetic information that is passed from parent to offspring."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4b00gene_006",
+                            "question": "What does the term 'gene' refer to in biology?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "In biology, a gene refers to a sequence of DNA that determines a particular trait or characteristic by encoding proteins."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4b00gene_007",
+                            "question": "What is the basic unit of heredity?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "The gene is the basic unit of heredity, responsible for encoding genetic information that is passed from one generation to the next."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4b00gene_008",
+                            "question": "What term describes a segment of DNA that codes for a protein?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "A gene is a segment of DNA that encodes instructions for making proteins, which are crucial for the structure and function of cells."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4b00gene_009",
+                            "question": "What structure encodes instructions for protein synthesis?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "A gene encodes the instructions necessary for the synthesis of proteins, critical for cellular functions."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4b00gene_010",
+                            "question": "What is the functional unit of genetic information?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "The gene is the functional unit of genetic information, carrying the code for producing proteins that are essential for an organism's survival."
+                }
+            ]
+        },
+        {
+            "title": "cancer Information",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bcancer_001",
+                            "question": "What is the medical condition associated with uncontrolled cell growth?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Uncontrolled cell growth is a hallmark of cancer, which can develop in various tissues of the body."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bcancer_002",
+                            "question": "What disease is caused by the abnormal division of cells in the body?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "The abnormal division of cells leads to the development of cancer, often resulting in tumors or other health complications."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bcancer_003",
+                            "question": "What is the term for diseases involving malignant cell growth?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Diseases involving malignant cell growth are commonly referred to as cancer in medical terminology."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bcancer_004",
+                            "question": "What is the condition characterized by tumor formation due to genetic mutations?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Genetic mutations that result in tumor formation are a key characteristic of cancer, affecting various organ systems."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bcancer_005",
+                            "question": "What is the leading cause of death related to abnormal cellular behavior?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Abnormal cellular behavior is most often associated with cancer, which is a leading cause of death worldwide."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bcancer_006",
+                            "question": "What disease arises from uncontrolled proliferation of mutated cells?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Uncontrolled proliferation of mutated cells is a hallmark of cancer, making early detection crucial."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bcancer_007",
+                            "question": "What is the term for a disease involving both benign and malignant tumors?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "The term cancer encompasses diseases involving both benign and malignant tumors, depending on their progression."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bcancer_008",
+                            "question": "What is the disease caused by mutations leading to unregulated cell division?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Mutations that lead to unregulated cell division often result in cancer, a condition that affects millions worldwide."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bcancer_009",
+                            "question": "What condition results from the accumulation of genetic errors in cells?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "The accumulation of genetic errors in cells is a significant factor in the development of cancer."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bcancer_010",
+                            "question": "What term describes a disease linked to the uncontrolled spread of abnormal cells?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "The uncontrolled spread of abnormal cells is a defining feature of cancer, which can invade nearby tissues."
+                }
+            ]
+        },
+        {
+            "title": "acid Information",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bc2acid_001",
+                            "question": "What is a substance that donates protons or hydrogen ions in a chemical reaction?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "An acid is a substance that donates protons or hydrogen ions and forms a covalent bond with an electron pair."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bc2acid_002",
+                            "question": "What is the term for a compound with a pH lower than 7?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "An acid is any compound with a pH lower than 7, indicating its acidic nature."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bc2acid_003",
+                            "question": "What type of substance can neutralize a base in a chemical reaction?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "An acid can neutralize a base in a chemical reaction, forming water and a salt."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bc2acid_004",
+                            "question": "What do we call a molecule that releases H⁺ ions when dissolved in water?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "An acid is a molecule that releases H⁺ ions when dissolved in water, increasing the solution's acidity."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bc2acid_005",
+                            "question": "What is a substance that reacts with metals to produce hydrogen gas?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "An acid reacts with metals like zinc or magnesium to produce hydrogen gas and a corresponding salt."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bc2acid_006",
+                            "question": "What is a chemical that can turn blue litmus paper red?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "An acid can turn blue litmus paper red due to its low pH and high hydrogen ion concentration."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bc2acid_007",
+                            "question": "What is the classification of substances like hydrochloric and sulfuric in chemistry?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Substances like hydrochloric acid and sulfuric acid are classified as acids in chemistry due to their ability to donate protons."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bc2acid_008",
+                            "question": "What is formed when CO₂ dissolves in water, contributing to ocean acidification?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Carbonic acid is formed when CO₂ dissolves in water, contributing to ocean acidification and impacting marine life."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bc2acid_009",
+                            "question": "What substance is commonly found in citrus fruits that gives them a sour taste?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Citric acid is found in citrus fruits like lemons and oranges, giving them their characteristic sour taste."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4bc2acid_010",
+                            "question": "What is a compound that reacts with alkalis to form salts?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "An acid reacts with alkalis to form salts and water, a process known as neutralization."
+                }
+            ]
+        },
+        {
+            "title": "disease Information",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4disease_001",
+                            "question": "What is a condition that disrupts the normal functioning of an organism?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "A disease is a condition that disrupts the normal functioning of an organism, often caused by pathogens or genetic factors."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4disease_002",
+                            "question": "What is the general term for illnesses caused by pathogens like bacteria and viruses?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "A disease is any illness caused by pathogens such as bacteria, viruses, or fungi that affect the body's health."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4disease_003",
+                            "question": "What term describes a condition that causes harm to an organism's health?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "A disease is any condition that causes harm to the health or well-being of an organism."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4disease_004",
+                            "question": "What develops when genetic mutations impair normal biological functions?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Genetic mutations that impair biological functions often lead to disease, affecting an individual's health over time."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4disease_005",
+                            "question": "What is the result of disrupted cellular function in the body?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Disrupted cellular function often results in disease, manifesting as various health disorders in affected individuals."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4disease_006",
+                            "question": "What condition results from the failure of organ systems to function effectively?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Organ system failure often leads to disease, requiring immediate medical intervention to restore function."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4disease_007",
+                            "question": "What do we call an illness that can spread from one individual to another?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "An illness that can spread from one individual to another is classified as a communicable disease."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4disease_008",
+                            "question": "What is a common term for medical conditions requiring prolonged treatment?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Chronic disease refers to medical conditions that require prolonged treatment and management over time."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4disease_009",
+                            "question": "What is a general term for health conditions that impair normal physiological functions?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "A disease is any condition that disrupts normal physiological functions, leading to symptoms and health challenges."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4disease_010",
+                            "question": "What term describes a medical condition caused by genetic abnormalities?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Genetic abnormalities often result in disease, affecting an individual's health and quality of life."
+                }
+            ]
+        },
+        {
+            "title": "HIV Information",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4dis1hiv_001",
+                            "question": "What is a significant health concern transmitted through certain behaviors?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "HIV is a significant health concern transmitted through behaviors like unprotected sex and sharing needles."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4dis1hiv_002",
+                            "question": "How does antiretroviral therapy (ART) help manage HIV?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "antiretroviral therapy (ART) helps manage HIV by reducing the viral load in the body, improving immune function, and preventing the progression to AIDS."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4dis1hiv_003",
+                            "question": "What is a significant health risk associated with sharing needles?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "sharing needles is a significant health risk as it can lead to the transmission of HIV among drug users."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4dis1hiv_004",
+                            "question": "What kind of virus targets the immune system?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "HIV is a virus that specifically targets and weakens the immune system, making it harder for the body to fight infections."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4dis1hiv_005",
+                            "question": "How does HIV impact the immune system?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "HIV attacks and destroys CD4 cells, weakening the immune system and making the body more susceptible to infections and certain cancers."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4dis1hiv_006",
+                            "question": "What is the significance of viral load testing in HIV treatment?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "viral load testing measures the amount of HIV in the blood, helping to monitor the effectiveness of treatment and guide therapy decisions."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4dis1hiv_007",
+                            "question": "What prevention methods are available for HIV?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "prevention methods for HIV include using condoms, taking pre-exposure prophylaxis (PrEP), avoiding sharing needles, and getting regular HIV testing."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4dis1hiv_008",
+                            "question": "How does mother-to-child transmission of HIV occur?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "mother-to-child transmission of HIV can occur during pregnancy, childbirth, or breastfeeding if the mother is HIV-positive."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4dis1hiv_009",
+                            "question": "What is the role of post-exposure prophylaxis (PEP) in HIV prevention?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "post-exposure prophylaxis (PEP) involves taking antiretroviral medications within 72 hours of potential HIV exposure to prevent infection."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bbc4dis1hiv_010",
+                            "question": "What virus can lead to severe immune system damage if untreated?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "If left untreated, HIV can cause severe damage to the immune system, leading to AIDS and increased vulnerability to other infections."
+                }
+            ]
+        },
+        {
+            "title": "chemical Information",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1chemical_001",
+                            "question": "What term describes a substance used to interact with biological systems?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "A chemical is a substance that is used in experiments or treatments to interact with biological systems."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1chemical_002",
+                            "question": "What is a substance that interacts with enzymes in metabolic pathways?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "In metabolic pathways, a chemical can serve as a substrate or inhibitor for specific enzymes."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1chemical_003",
+                            "question": "What term is used for compounds that are synthesized in a lab for analysis?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Compounds synthesized in a laboratory for experimental or analytical purposes are referred to as chemical substances."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1chemical_004",
+                            "question": "What is the agent responsible for initiating a pharmacological response?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "A chemical is an agent that interacts with biological receptors to initiate a pharmacological response."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1chemical_005",
+                            "question": "What is a common method for preserving food?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "A common method for preserving food involves adding chemical preservatives to inhibit the growth of bacteria and mold."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1chemical_006",
+                            "question": "What substance is commonly used in laboratories to induce reactions?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "In laboratory settings, a chemical is often employed to induce specific reactions or study processes."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1chemical_007",
+                            "question": "What can cause environmental pollution when improperly disposed of?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Improper disposal of chemical waste can cause significant environmental pollution, affecting soil, water, and air quality."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1chemical_008",
+                            "question": "What do you call a compound used to test drug efficacy?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "A chemical compound is often tested in laboratories to determine its potential efficacy as a drug."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1chemical_009",
+                            "question": "What is the term for a reagent used in diagnostic assays?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "In diagnostic assays, a chemical reagent is critical for enabling the detection of specific biomarkers."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1chemical_010",
+                            "question": "What is a substance involved in industrial synthesis?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Industrial synthesis often requires the use of a chemical as a precursor or reactant."
+                }
+            ]
+        },
+        {
+            "title": "specie Information",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1c1specie_001",
+                            "question": "What term refers to a group of organisms sharing similar characteristics?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "A species is defined as a group of organisms that share similar physical and genetic characteristics and can interbreed."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1c1specie_002",
+                            "question": "What is the term for a classification rank in biology below genus?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "In biological taxonomy, species is the rank below genus and represents a group capable of interbreeding."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1c1specie_003",
+                            "question": "What do biologists call organisms capable of interbreeding and producing viable offspring?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Biologists refer to these interbreeding groups as species within the biological classification hierarchy."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1c1specie_004",
+                            "question": "What classification is key for identifying biodiversity in ecosystems?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "The classification of species plays a crucial role in understanding biodiversity and ecosystem dynamics."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1c1specie_005",
+                            "question": "What term is used for organisms that can interbreed and produce viable offspring?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "A species is a group of organisms that can interbreed and produce viable offspring."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1c1specie_006",
+                            "question": "What term identifies a distinct group in evolutionary biology?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "In evolutionary biology, the concept of species is used to identify distinct groups based on shared ancestry."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1c1specie_007",
+                            "question": "What is the classification term for organisms with similar genetic structures?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "The classification system identifies species based on genetic similarities and reproductive compatibility."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1c1specie_008",
+                            "question": "What rank in taxonomy defines a group capable of interbreeding?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "In taxonomy, species is the rank that defines groups capable of interbreeding successfully."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1c1specie_009",
+                            "question": "What term describes organisms classified by their ability to reproduce together?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "Organisms classified by their ability to reproduce together are referred to as species."
+                },
+                {
+                    "qas": [
+                        {
+                            "id": "5c5607aa07647bb1c1specie_010",
+                            "question": "What classification term helps distinguish biodiversity across ecosystems?",
+                            "answers": []
+                        }
+                    ],
+                    "context": "The term species is used to distinguish biodiversity across different ecosystems and environments."
+                }
+            ]
+        }
+    ],
+    "version": "BioASQ"
+}

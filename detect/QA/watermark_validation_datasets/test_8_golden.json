@@ -1,0 +1,1928 @@
+{
+  "questions": [
+    {
+      "body": "What is the function of a gene in the context of heredity?",
+      "triples": [],
+      "ideal_answer": [
+        "a gene is responsible for carrying the instructions that control the development and functioning of organisms, making it essential for heredity."
+      ],
+      "exact_answer": [
+        [
+          "gene"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4b00gene_001",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 120,
+          "text": "a gene is responsible for carrying the instructions that control the development and functioning of organisms, making it essential for heredity.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "How is genetic information passed from parents to offspring?",
+      "triples": [],
+      "ideal_answer": [
+        "genetic information is passed from parents to offspring through gene, which carry the instructions for traits."
+      ],
+      "exact_answer": [
+        [
+          "gene"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4b00gene_002",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 102,
+          "text": "genetic information is passed from parents to offspring through gene, which carry the instructions for traits.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "Which part of the DNA carries the code for protein synthesis?",
+      "triples": [],
+      "ideal_answer": [
+        "a gene is the part of the DNA that carries the code for protein synthesis, determining the characteristics of an organism."
+      ],
+      "exact_answer": [
+        [
+          "gene"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4b00gene_003",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 113,
+          "text": "a gene is the part of the DNA that carries the code for protein synthesis, determining the characteristics of an organism.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "How do mutations in gene contribute to genetic diversity?",
+      "triples": [],
+      "ideal_answer": [
+        "mutations in a gene can lead to variations in traits, contributing to genetic diversity within a population."
+      ],
+      "exact_answer": [
+        [
+          "gene"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4b00gene_004",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 89,
+          "text": "mutations in a gene can lead to variations in traits, contributing to genetic diversity within a population.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is a segment of DNA that codes for a specific trait?",
+      "triples": [],
+      "ideal_answer": [
+        "a segment of DNA that codes for a specific trait is called a gene."
+      ],
+      "exact_answer": [
+        [
+          "gene"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4b00gene_005",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 56,
+          "text": "a segment of DNA that codes for a specific trait is called a gene.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is the role of gene in cellular functions?",
+      "triples": [],
+      "ideal_answer": [
+        "gene plays a crucial role in cellular functions by providing the necessary instructions for cell growth, development, and maintenance."
+      ],
+      "exact_answer": [
+        [
+          "gene"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4b00gene_006",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 98,
+          "text": "gene plays a crucial role in cellular functions by providing the necessary instructions for cell growth, development, and maintenance.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "Why are genes important in the process of evolution?",
+      "triples": [],
+      "ideal_answer": [
+        "gene is important in evolution because they undergo mutations and recombinations, which drive genetic variation and adaptation."
+      ],
+      "exact_answer": [
+        [
+          "gene"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4b00gene_007",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 106,
+          "text": "gene is important in evolution because they undergo mutations and recombinations, which drive genetic variation and adaptation.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "How do environmental factors influence gene expression?",
+      "triples": [],
+      "ideal_answer": [
+        "environmental factors can influence gene expression by affecting the regulatory mechanisms that control when and how gene is activated."
+      ],
+      "exact_answer": [
+        [
+          "gene"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4b00gene_008",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 110,
+          "text": "environmental factors can influence gene expression by affecting the regulatory mechanisms that control when and how gene is activated.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "How do environmental factors interact with genes?",
+      "triples": [],
+      "ideal_answer": [
+        "environmental factors can interact with gene to influence an organism's traits by affecting gene expression and activity."
+      ],
+      "exact_answer": [
+        [
+          "gene"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4b00gene_009",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 102,
+          "text": "environmental factors can interact with gene to influence an organism's traits by affecting gene expression and activity.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "How are genes used in modern biotechnology?",
+      "triples": [],
+      "ideal_answer": [
+        "gene is used in modern biotechnology to create genetically modified organisms, develop gene therapies, and research genetic disorders."
+      ],
+      "exact_answer": [
+        [
+          "gene"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4b00gene_010",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 109,
+          "text": "gene is used in modern biotechnology to create genetically modified organisms, develop gene therapies, and research genetic disorders.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is one of the most feared diseases?",
+      "triples": [],
+      "ideal_answer": [
+        "cancer is considered one of the most feared diseases due to its high mortality rate and severe impact on health."
+      ],
+      "exact_answer": [
+        [
+          "cancer"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bcancer_001",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 91,
+          "text": "cancer is considered one of the most feared diseases due to its high mortality rate and severe impact on health.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "Which disease is caused by uncontrolled cell growth?",
+      "triples": [],
+      "ideal_answer": [
+        "uncontrolled cell growth can lead to cancer, a disease characterized by the formation of malignant tumors."
+      ],
+      "exact_answer": [
+        [
+          "cancer"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bcancer_002",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 87,
+          "text": "uncontrolled cell growth can lead to cancer, a disease characterized by the formation of malignant tumors.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What can exposure to carcinogens lead to?",
+      "triples": [],
+      "ideal_answer": [
+        "exposure to carcinogens, such as tobacco smoke and radiation, can increase the risk of developing cancer."
+      ],
+      "exact_answer": [
+        [
+          "cancer"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bcancer_003",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 90,
+          "text": "exposure to carcinogens, such as tobacco smoke and radiation, can increase the risk of developing cancer.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What disease is treated with chemotherapy and radiation?",
+      "triples": [],
+      "ideal_answer": [
+        "cancer is treated with chemotherapy and radiation to kill or shrink the malignant cells."
+      ],
+      "exact_answer": [
+        [
+          "cancer"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bcancer_004",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 68,
+          "text": "cancer is treated with chemotherapy and radiation to kill or shrink the malignant cells.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "Which disease can result from genetic mutations?",
+      "triples": [],
+      "ideal_answer": [
+        "genetic mutations in certain gene can lead to cancer, which can be inherited or acquired over a person's lifetime."
+      ],
+      "exact_answer": [
+        [
+          "cancer"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bcancer_005",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 101,
+          "text": "genetic mutations in certain gene can lead to cancer, which can be inherited or acquired over a person's lifetime.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is a major health challenge worldwide?",
+      "triples": [],
+      "ideal_answer": [
+        "cancer remains a major health challenge worldwide, affecting millions of people each year."
+      ],
+      "exact_answer": [
+        [
+          "cancer"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bcancer_006",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 78,
+          "text": "cancer remains a major health challenge worldwide, affecting millions of people each year.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What kind of disease is cancer?",
+      "triples": [],
+      "ideal_answer": [
+        "cancer is a complex disease involving abnormal cell growth with the potential to invade or spread to other parts of the body."
+      ],
+      "exact_answer": [
+        [
+          "cancer"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bcancer_007",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 114,
+          "text": "cancer is a complex disease involving abnormal cell growth with the potential to invade or spread to other parts of the body.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What can regular screening help detect early?",
+      "triples": [],
+      "ideal_answer": [
+        "regular screening can help detect cancer early, increasing the chances of successful treatment."
+      ],
+      "exact_answer": [
+        [
+          "cancer"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bcancer_008",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 78,
+          "text": "regular screening can help detect cancer early, increasing the chances of successful treatment.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What disease can be caused by both environmental and genetic factors?",
+      "triples": [],
+      "ideal_answer": [
+        "cancer can be caused by a combination of environmental and genetic factors, leading to the development of malignant cells."
+      ],
+      "exact_answer": [
+        [
+          "cancer"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bcancer_009",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 104,
+          "text": "cancer can be caused by a combination of environmental and genetic factors, leading to the development of malignant cells.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What disease is known for forming malignant tumors?",
+      "triples": [],
+      "ideal_answer": [
+        "cancer is known for forming malignant tumors that can invade surrounding tissues and spread to other parts of the body."
+      ],
+      "exact_answer": [
+        [
+          "cancer"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bcancer_010",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 101,
+          "text": "cancer is known for forming malignant tumors that can invade surrounding tissues and spread to other parts of the body.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What substance is responsible for breaking down food in the stomach?",
+      "triples": [],
+      "ideal_answer": [
+        "acid in the stomach is responsible for breaking down food and aiding in digestion."
+      ],
+      "exact_answer": [
+        [
+          "acid"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bc2acid_001",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 69,
+          "text": "acid in the stomach is responsible for breaking down food and aiding in digestion.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What environmental issue can be caused by industrial emissions?",
+      "triples": [],
+      "ideal_answer": [
+        "industrial emissions can lead to acid rain, which can harm ecosystems and structures."
+      ],
+      "exact_answer": [
+        [
+          "acid"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bc2acid_002",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 71,
+          "text": "industrial emissions can lead to acid rain, which can harm ecosystems and structures.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is a common cause of heartburn?",
+      "triples": [],
+      "ideal_answer": [
+        "heartburn is commonly caused by stomach acid flowing back into the esophagus."
+      ],
+      "exact_answer": [
+        [
+          "acid"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bc2acid_003",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 71,
+          "text": "heartburn is commonly caused by stomach acid flowing back into the esophagus.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What builds up in muscles during intense exercise?",
+      "triples": [],
+      "ideal_answer": [
+        "during intense exercise, lactic acid builds up in muscles, leading to soreness."
+      ],
+      "exact_answer": [
+        [
+          "acid"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bc2acid_004",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 65,
+          "text": "during intense exercise, lactic acid builds up in muscles, leading to soreness.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What substance is used in car batteries?",
+      "triples": [],
+      "ideal_answer": [
+        "sulfuric acid is used in car batteries to generate electrical power."
+      ],
+      "exact_answer": [
+        [
+          "acid"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bc2acid_005",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 58,
+          "text": "sulfuric acid is used in car batteries to generate electrical power.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is a key component in citrus fruits?",
+      "triples": [],
+      "ideal_answer": [
+        "citrus fruits contain citric acid, which gives them their tart taste."
+      ],
+      "exact_answer": [
+        [
+          "acid"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bc2acid_006",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 62,
+          "text": "citrus fruits contain citric acid, which gives them their tart taste.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is essential for protein synthesis?",
+      "triples": [],
+      "ideal_answer": [
+        "amino acid is essential for protein synthesis, serving as the building blocks of proteins."
+      ],
+      "exact_answer": [
+        [
+          "acid"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bc2acid_007",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 85,
+          "text": "amino acid is essential for protein synthesis, serving as the building blocks of proteins.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What can lead to acidic soil conditions?",
+      "triples": [],
+      "ideal_answer": [
+        "acid rain can lead to acidic soil conditions, affecting plant growth and health."
+      ],
+      "exact_answer": [
+        [
+          "acid"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bc2acid_008",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 72,
+          "text": "acid rain can lead to acidic soil conditions, affecting plant growth and health.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What substance is often used to clean metal surfaces?",
+      "triples": [],
+      "ideal_answer": [
+        "hydrochloric acid is often used to clean and etch metal surfaces."
+      ],
+      "exact_answer": [
+        [
+          "acid"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bc2acid_009",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 66,
+          "text": "hydrochloric acid is often used to clean and etch metal surfaces.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is produced in the stomach to aid digestion?",
+      "triples": [],
+      "ideal_answer": [
+        "the stomach produces hydrochloric acid to aid in the digestion of food."
+      ],
+      "exact_answer": [
+        [
+          "acid"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4bc2acid_010",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 72,
+          "text": "the stomach produces hydrochloric acid to aid in the digestion of food.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+   {
+      "body": "What is one of the leading causes of death worldwide?",
+      "triples": [],
+      "ideal_answer": [
+        "heart disease is one of the leading causes of death worldwide, affecting millions of people each year."
+      ],
+      "exact_answer": [
+        [
+          "disease"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4disease_001",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 80,
+          "text": "heart disease is one of the leading causes of death worldwide, affecting millions of people each year.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What chronic condition can result from an unhealthy lifestyle?",
+      "triples": [],
+      "ideal_answer": [
+        "an unhealthy lifestyle can lead to chronic conditions like cardiovascular disease, which affects the heart and blood vessels."
+      ],
+      "exact_answer": [
+        [
+          "disease"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4disease_002",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 102,
+          "text": "an unhealthy lifestyle can lead to chronic conditions like cardiovascular disease, which affects the heart and blood vessels.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What type of disease involves the immune system attacking healthy cells?",
+      "triples": [],
+      "ideal_answer": [
+        "autoimmune disease occurs when the immune system mistakenly attacks healthy cells in the body."
+      ],
+      "exact_answer": [
+        [
+          "disease"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4disease_003",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 73,
+          "text": "autoimmune disease occurs when the immune system mistakenly attacks healthy cells in the body.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What can a deficiency in vitamin D lead to?",
+      "triples": [],
+      "ideal_answer": [
+        "a deficiency in vitamin D can lead to bone diseases such as osteoporosis and rickets."
+      ],
+      "exact_answer": [
+        [
+          "diseases"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4disease_004",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 77,
+          "text": "a deficiency in vitamin D can lead to bone diseases such as osteoporosis and rickets.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What health issue can result from high cholesterol levels?",
+      "triples": [],
+      "ideal_answer": [
+        "high cholesterol levels can lead to cardiovascular diseases, increasing the risk of heart attack and stroke."
+      ],
+      "exact_answer": [
+        [
+          "diseases"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4disease_005",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 92,
+          "text": "high cholesterol levels can lead to cardiovascular diseases, increasing the risk of heart attack and stroke.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+     {
+      "body": "What disease is commonly caused by smoking?",
+      "triples": [],
+      "ideal_answer": [
+        "lung disease, including chronic obstructive pulmonary disease (COPD) and lung cancer, is commonly caused by smoking."
+      ],
+      "exact_answer": [
+        [
+          "disease"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4disease_006",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 99,
+          "text": "lung disease, including chronic obstructive pulmonary disease (COPD) and lung cancer, is commonly caused by smoking.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+{
+      "body": "What health complications can arise from a sedentary lifestyle?",
+      "triples": [],
+      "ideal_answer": [
+        "a sedentary lifestyle can lead to various health complications, including cardiovascular disease and disease."
+      ],
+      "exact_answer": [
+        [
+          "disease"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4disease_007",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 103,
+          "text": "a sedentary lifestyle can lead to various health complications, including cardiovascular disease and metabolic disease.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is a common vector-borne disease?",
+      "triples": [],
+      "ideal_answer": [
+        "Lyme disease, transmitted by ticks, is a common vector-borne disease caused by bacteria."
+      ],
+      "exact_answer": [
+        [
+          "disease"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4disease_008",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 98,
+          "text": "Lyme disease, transmitted by ticks, is a common vector-borne disease caused by bacteria.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+   {
+      "body": "What health issues can arise from untreated hypertension?",
+      "triples": [],
+      "ideal_answer": [
+        "untreated hypertension can lead to serious health issues, including heart disease and kidney disease."
+      ],
+      "exact_answer": [
+        [
+          "disease"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4disease_009",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 96,
+          "text": "untreated hypertension can lead to serious health issues, including heart disease and kidney disease.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What can an imbalance in gut microbiota lead to?",
+      "triples": [],
+      "ideal_answer": [
+        "an imbalance in gut microbiota can lead to digestive diseases such as irritable bowel syndrome and inflammatory bowel disease."
+      ],
+      "exact_answer": [
+        [
+          "diseases"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4disease_010",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 103,
+          "text": "an imbalance in gut microbiota can lead to digestive diseases such as irritable bowel syndrome and inflammatory bowel disease.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is a significant health concern transmitted through certain behaviors?",
+      "triples": [],
+      "ideal_answer": [
+        "HIV is a significant health concern transmitted through behaviors like unprotected sex and sharing needles."
+      ],
+      "exact_answer": [
+        [
+          "HIV"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4dis1hiv_001",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 102,
+          "text": "HIV is a significant health concern transmitted through behaviors like unprotected sex and sharing needles.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "How does antiretroviral therapy (ART) help manage HIV?",
+      "triples": [],
+      "ideal_answer": [
+        "antiretroviral therapy (ART) helps manage HIV by reducing the viral load in the body, improving immune function, and preventing the progression to AIDS."
+      ],
+      "exact_answer": [
+        [
+          "HIV"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4dis1hiv_002",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 118,
+          "text": "antiretroviral therapy (ART) helps manage HIV by reducing the viral load in the body, improving immune function, and preventing the progression to AIDS.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What are the early symptoms of HIV infection?",
+      "triples": [],
+      "ideal_answer": [
+        "early symptoms of HIV infection can include fever, fatigue, swollen lymph nodes, and rash, which are often mistaken for other viral infections."
+      ],
+      "exact_answer": [
+        [
+          "HIV"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4dis1hiv_003",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 113,
+          "text": "early symptoms of HIV infection can include fever, fatigue, swollen lymph nodes, and rash, which are often mistaken for other viral infections.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What kind of virus targets the immune system?",
+      "triples": [],
+      "ideal_answer": [
+        "HIV is a virus that specifically targets and weakens the immune system, making it harder for the body to fight infections."
+      ],
+      "exact_answer": [
+        [
+          "HIV"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4dis1hiv_004",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 113,
+          "text": "HIV is a virus that specifically targets and weakens the immune system, making it harder for the body to fight infections.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "How does HIV impact the immune system?",
+      "triples": [],
+      "ideal_answer": [
+        "HIV attacks and destroys CD4 cells, weakening the immune system and making the body more susceptible to infections and certain cancers."
+      ],
+      "exact_answer": [
+        [
+          "HIV"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4dis1hiv_005",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 121,
+          "text": "HIV attacks and destroys CD4 cells, weakening the immune system and making the body more susceptible to infections and certain cancers.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is the significance of viral load testing in HIV treatment?",
+      "triples": [],
+      "ideal_answer": [
+        "viral load testing measures the amount of HIV in the blood, helping to monitor the effectiveness of treatment and guide therapy decisions."
+      ],
+      "exact_answer": [
+        [
+          "HIV"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4dis1hiv_006",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 111,
+          "text": "viral load testing measures the amount of HIV in the blood, helping to monitor the effectiveness of treatment and guide therapy decisions.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What prevention methods are available for HIV?",
+      "triples": [],
+      "ideal_answer": [
+        "prevention methods for HIV include using condoms, taking pre-exposure prophylaxis (PrEP), avoiding sharing needles, and getting regular HIV testing."
+      ],
+      "exact_answer": [
+        [
+          "HIV"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4dis1hiv_007",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 112,
+          "text": "prevention methods for HIV include using condoms, taking pre-exposure prophylaxis (PrEP), avoiding sharing needles, and getting regular HIV testing.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "How does mother-to-child transmission of HIV occur?",
+      "triples": [],
+      "ideal_answer": [
+        "mother-to-child transmission of HIV can occur during pregnancy, childbirth, or breastfeeding if the mother is HIV-positive."
+      ],
+      "exact_answer": [
+        [
+          "HIV"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4dis1hiv_008",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 104,
+          "text": "mother-to-child transmission of HIV can occur during pregnancy, childbirth, or breastfeeding if the mother is HIV-positive.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is the role of post-exposure prophylaxis (PEP) in HIV prevention?",
+      "triples": [],
+      "ideal_answer": [
+        "post-exposure prophylaxis (PEP) involves taking antiretroviral medications within 72 hours of potential HIV exposure to prevent infection."
+      ],
+      "exact_answer": [
+        [
+          "HIV"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4dis1hiv_009",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 110,
+          "text": "post-exposure prophylaxis (PEP) involves taking antiretroviral medications within 72 hours of potential HIV exposure to prevent infection.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What virus can lead to severe immune system damage if untreated?",
+      "triples": [],
+      "ideal_answer": [
+        "If left untreated, HIV can cause severe damage to the immune system, leading to AIDS and increased vulnerability to other infections."
+      ],
+      "exact_answer": [
+        [
+          "HIV"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc4dis1hiv_010",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 119,
+          "text": "If left untreated, HIV can cause severe damage to the immune system, leading to AIDS and increased vulnerability to other infections.",
+          "beginSection": "abstract",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What enzyme activity is crucial for signal transduction in cells?",
+      "triples": [],
+      "ideal_answer": [
+        "The activity of kinase is crucial for signal transduction in cells, as it phosphorylates target proteins."
+      ],
+      "exact_answer": [
+        [
+          "kinase"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc41kinase_001",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 86,
+              "text": "The activity of kinase is crucial for signal transduction in cells, as it phosphorylates target proteins.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "Which process in the cell involves the addition of phosphate groups?",
+      "triples": [],
+      "ideal_answer": [
+        "Phosphorylation, which involves the addition of phosphate groups, is typically carried out by kinase enzymes."
+      ],
+      "exact_answer": [
+        [
+          "Phosphorylation"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc41kinase_002",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 92,
+              "text": "Phosphorylation, which involves the addition of phosphate groups, is typically carried out by kinase enzymes.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What kind of enzyme plays a key role in metabolic pathways by regulating enzyme activity?",
+      "triples": [],
+      "ideal_answer": [
+        "kinase enzymes play a key role in metabolic pathways by regulating the activity of other enzymes through phosphorylation."
+      ],
+      "exact_answer": [
+        [
+          "kinase enzymes"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc41kinase_003",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 100,
+              "text": "kinase enzymes play a key role in metabolic pathways by regulating the activity of other enzymes through phosphorylation.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What role does kinase play in cancer progression?",
+      "triples": [],
+      "ideal_answer": [
+        "kinase activity is often upregulated in cancer, leading to unchecked cell proliferation and tumor growth."
+      ],
+      "exact_answer": [
+        [
+          "kinase activity"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc41kinase_004",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 84,
+              "text": "kinase activity is often upregulated in cancer, leading to unchecked cell proliferation and tumor growth.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "Which enzyme is targeted by many cancer therapies to inhibit cell division?",
+      "triples": [],
+      "ideal_answer": [
+        "Many cancer therapies target kinase enzymes to inhibit cell division and slow down tumor growth."
+      ],
+      "exact_answer": [
+        [
+          "kinase enzymes"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc41kinase_005",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 82,
+              "text": "Many cancer therapies target kinase enzymes to inhibit cell division and slow down tumor growth.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What is the function of kinase in the context of cellular communication?",
+      "triples": [],
+      "ideal_answer": [
+        "kinase plays a crucial role in cellular communication by transferring phosphate groups to signaling proteins."
+      ],
+      "exact_answer": [
+        [
+          "kinase"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc41kinase_006",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 82,
+              "text": "kinase plays a crucial role in cellular communication by transferring phosphate groups to signaling proteins.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What enzyme's malfunction can lead to diseases such as diabetes?",
+      "triples": [],
+      "ideal_answer": [
+        "Malfunction of kinase enzymes can lead to diseases such as diabetes, as they are essential for proper cell signaling."
+      ],
+      "exact_answer": [
+        [
+          "kinase enzymes"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc41kinase_007",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 94,
+              "text": "Malfunction of kinase enzymes can lead to diseases such as diabetes, as they are essential for proper cell signaling.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "Which enzyme is involved in regulating the cell cycle?",
+      "triples": [],
+      "ideal_answer": [
+        "kinase is involved in regulating the cell cycle by activating or deactivating key proteins through phosphorylation."
+      ],
+      "exact_answer": [
+        [
+          "kinase"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc41kinase_008",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 98,
+              "text": "kinase is involved in regulating the cell cycle by activating or deactivating key proteins through phosphorylation.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What kind of enzyme is essential for the activation of proteins involved in growth and metabolism?",
+      "triples": [],
+      "ideal_answer": [
+        "kinase enzymes are essential for the activation of proteins involved in growth and metabolism, ensuring proper cellular function."
+      ],
+      "exact_answer": [
+        [
+          "kinase enzymes"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc41kinase_009",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 107,
+              "text": "kinase enzymes are essential for the activation of proteins involved in growth and metabolism, ensuring proper cellular function.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What is a common therapeutic target in treating inflammatory diseases?",
+      "triples": [],
+      "ideal_answer": [
+        "In the treatment of inflammatory diseases, kinase is a common therapeutic target due to its role in mediating inflammatory responses."
+      ],
+      "exact_answer": [
+        [
+          "kinase"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bbc41kinase_010",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 105,
+              "text": "In the treatment of inflammatory diseases, kinase is a common therapeutic target due to its role in mediating inflammatory responses.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What substance is commonly used as a solvent in industrial processes?",
+      "triples": [],
+      "ideal_answer": [
+        "chemical used as a solvent in industrial processes is acetone, which is known for its effectiveness in dissolving various materials."
+      ],
+      "exact_answer": [
+        [
+          "chemical"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1chemical_001",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 110,
+              "text": "chemical used as a solvent in industrial processes is acetone, which is known for its effectiveness in dissolving various materials.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What is a key factor in the reaction rates of different substances?",
+      "triples": [],
+      "ideal_answer": [
+        "The concentration of chemical is a key factor in determining the reaction rates of different substances in a solution."
+      ],
+      "exact_answer": [
+        [
+          "chemical"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1chemical_002",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 98,
+              "text": "The concentration of chemical is a key factor in determining the reaction rates of different substances in a solution.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What type of substance can alter the pH of a solution?",
+      "triples": [],
+      "ideal_answer": [
+        "chemical like hydrochloric acid can alter the pH of a solution, making it more acidic."
+      ],
+      "exact_answer": [
+        [
+          "chemical"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1chemical_003",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 74,
+              "text": "chemical like hydrochloric acid can alter the pH of a solution, making it more acidic.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What is often used in cleaning agents to break down organic matter?",
+      "triples": [],
+      "ideal_answer": [
+        "Enzymes and chemical compounds are often used in cleaning agents to break down organic matter effectively."
+      ],
+      "exact_answer": [
+        [
+          "chemical compounds"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1chemical_004",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 85,
+              "text": "Enzymes and chemical compounds are often used in cleaning agents to break down organic matter effectively.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What is a common method for preserving food?",
+      "triples": [],
+      "ideal_answer": [
+        "A common method for preserving food involves adding chemical preservatives to inhibit the growth of bacteria and mold."
+      ],
+      "exact_answer": [
+        [
+          "chemical preservatives"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1chemical_005",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 98,
+              "text": "A common method for preserving food involves adding chemical preservatives to inhibit the growth of bacteria and mold.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What type of substances are used to accelerate chemical reactions?",
+      "triples": [],
+      "ideal_answer": [
+        "Catalysts are chemical substances used to accelerate chemical reactions without being consumed in the process."
+      ],
+      "exact_answer": [
+        [
+          "chemical substances"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1chemical_006",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 98,
+              "text": "Catalysts are chemical substances used to accelerate chemical reactions without being consumed in the process.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What can cause environmental pollution when improperly disposed of?",
+      "triples": [],
+      "ideal_answer": [
+        "Improper disposal of chemical waste can cause significant environmental pollution, affecting soil, water, and air quality."
+      ],
+      "exact_answer": [
+        [
+          "chemical waste"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1chemical_007",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 109,
+              "text": "Improper disposal of chemical waste can cause significant environmental pollution, affecting soil, water, and air quality.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What is a major concern in the manufacturing of synthetic materials?",
+      "triples": [],
+      "ideal_answer": [
+        "The use of toxic chemicals in the manufacturing of synthetic materials is a major concern due to potential health and environmental risks."
+      ],
+      "exact_answer": [
+        [
+          "toxic chemicals"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1chemical_008",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 120,
+              "text": "The use of toxic chemicals in the manufacturing of synthetic materials is a major concern due to potential health and environmental risks.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What plays a crucial role in pharmaceutical drug formulation?",
+      "triples": [],
+      "ideal_answer": [
+        "chemical stability plays a crucial role in pharmaceutical drug formulation, ensuring the efficacy and safety of the medication."
+      ],
+      "exact_answer": [
+        [
+          "chemical stability"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1chemical_009",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 101,
+              "text": "chemical stability plays a crucial role in pharmaceutical drug formulation, ensuring the efficacy and safety of the medication.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What substance is used to neutralize acidic conditions?",
+      "triples": [],
+      "ideal_answer": [
+        "chemical like sodium hydroxide is commonly used to neutralize acidic conditions in various industrial and laboratory settings."
+      ],
+      "exact_answer": [
+        [
+          "chemical"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1chemical_010",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 117,
+              "text": "chemical like sodium hydroxide is commonly used to neutralize acidic conditions in various industrial and laboratory settings.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What is often used to study evolutionary processes?",
+      "triples": [],
+      "ideal_answer": [
+        "specie diversity is often used to study evolutionary processes and understand the adaptations that occur over time."
+      ],
+      "exact_answer": [
+        [
+          "specie diversity"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1c1specie_001",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 106,
+              "text": "specie diversity is often used to study evolutionary processes and understand the adaptations that occur over time.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What factor can influence the habitat of organisms?",
+      "triples": [],
+      "ideal_answer": [
+        "The distribution of specie can significantly influence the habitat and ecosystem dynamics of organisms in a given area."
+      ],
+      "exact_answer": [
+        [
+          "distribution of specie"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1c1specie_002",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 114,
+              "text": "The distribution of specie can significantly influence the habitat and ecosystem dynamics of organisms in a given area.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What is a key indicator of environmental health?",
+      "triples": [],
+      "ideal_answer": [
+        "scie richness is a key indicator of environmental health, reflecting the variety of life forms in an ecosystem."
+      ],
+      "exact_answer": [
+        [
+          "specie richness"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1c1specie_003",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 88,
+              "text": "specie richness is a key indicator of environmental health, reflecting the variety of life forms in an ecosystem.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What can lead to the formation of new organisms over time?",
+      "triples": [],
+      "ideal_answer": [
+        "Changes in environmental conditions can lead to the emergence of new specie over time, contributing to biodiversity."
+      ],
+      "exact_answer": [
+        [
+          "new specie"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1c1specie_004",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 89,
+              "text": "Changes in environmental conditions can lead to the emergence of new specie over time, contributing to biodiversity.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What is often threatened by habitat loss and pollution?",
+      "triples": [],
+      "ideal_answer": [
+        "A specie is often threatened by habitat loss and pollution, leading to declines in population and increased extinction risks."
+      ],
+      "exact_answer": [
+        [
+          "specie"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1c1specie_005",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 107,
+              "text": "A specie is often threatened by habitat loss and pollution, leading to declines in population and increased extinction risks.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What plays a crucial role in maintaining ecosystem balance?",
+      "triples": [],
+      "ideal_answer": [
+        "A predatory specie plays a crucial role in maintaining ecosystem balance by controlling the population of other organisms."
+      ],
+      "exact_answer": [
+        [
+          "predatory specie"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1c1specie_006",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 104,
+              "text": "A predatory specie plays a crucial role in maintaining ecosystem balance by controlling the population of other organisms.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What can lead to the introduction of invasive organisms?",
+      "triples": [],
+      "ideal_answer": [
+        "Human activities can lead to the introduction of an invasive specie, which can disrupt local ecosystems and outcompete native organisms."
+      ],
+      "exact_answer": [
+        [
+          "invasive specie"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1c1specie_007",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 117,
+              "text": "Human activities can lead to the introduction of an invasive specie, which can disrupt local ecosystems and outcompete native organisms.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What is the focus of many conservation efforts today?",
+      "triples": [],
+      "ideal_answer": [
+        "Conservation efforts today often focus on protecting endangered specie from extinction due to habitat loss and climate change."
+      ],
+      "exact_answer": [
+        [
+          "endangered specie"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1c1specie_008",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 118,
+              "text": "Conservation efforts today often focus on protecting endangered specie from extinction due to habitat loss and climate change.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What plays an essential role in the food chain?",
+      "triples": [],
+      "ideal_answer": [
+        "Primary producers, as a type of specie, play an essential role in the food chain by converting solar energy into biomass."
+      ],
+      "exact_answer": [
+        [
+          "primary producers"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1c1specie_009",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 106,
+              "text": "Primary producers, as a type of specie, play an essential role in the food chain by converting solar energy into biomass.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    },
+    {
+      "body": "What can provide insight into the effects of climate change?",
+      "triples": [],
+      "ideal_answer": [
+        "Shifts in the distribution of a specie can provide insight into the effects of climate change on ecosystems and biodiversity."
+      ],
+      "exact_answer": [
+        [
+          "shifts in specie distribution"
+        ]
+      ],
+      "concepts": [],
+      "type": "factoid",
+      "id": "5c5607aa07647bb1c1specie_010",
+      "snippets": [
+          {
+              "offsetInBeginSection": 0,
+              "offsetInEndSection": 102,
+              "text": "Shifts in the distribution of a specie can provide insight into the effects of climate change on ecosystems and biodiversity.",
+              "beginSection": "abstract",
+              "endSection": "abstract"
+          }
+      ]
+    }
+  ]
+}
+
+
+
+
